@@ -167,7 +167,7 @@ body, html {
     }
 
     .add-to-cart {
-        width: 87%;
+        width: 90%;
         font-size: 14px;
         padding: 15px;
         margin-top: 0;
@@ -176,6 +176,10 @@ body, html {
     .cart-img {
         width: 6%;
         margin-right: 12px;
+    }
+
+    .attribution { 
+        padding-top: 15px;
     }
 
 }
